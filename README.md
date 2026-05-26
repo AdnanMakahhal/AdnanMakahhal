@@ -23,30 +23,12 @@ Based in Jordan — open to remote opportunities worldwide.
   <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" height="50" alt="Next.js" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="50" alt="Redux" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" alt="Firebase" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/supabase/3FCF8E" height="50" alt="Supabase" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/xampp/FB7A24" height="50" alt="XAMPP" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="Figma" />&nbsp;&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/claude.png" />
-    <img src="https://unpkg.com/@lobehub/icons-static-png@latest/light/claude.png" height="50" alt="Claude" />
-  </picture>&nbsp;&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/openai.png" />
-    <img src="https://unpkg.com/@lobehub/icons-static-png@latest/light/openai.png" height="50" alt="ChatGPT" />
-  </picture>&nbsp;&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/notebooklm.png" />
-    <img src="https://unpkg.com/@lobehub/icons-static-png@latest/light/notebooklm.png" height="50" alt="NotebookLM" />
-  </picture>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/github/FFFFFF" height="50" alt="GitHub" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VS Code" />&nbsp;&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/antigravity-color.png" />
-    <img src="https://unpkg.com/@lobehub/icons-static-png@latest/light/antigravity-color.png" height="50" alt="Antigravity" />
-  </picture>&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="50" alt="Ubuntu" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/kalilinux/557C94" height="50" alt="Kali Linux" />
 </p>
