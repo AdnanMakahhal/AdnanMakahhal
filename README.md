@@ -34,12 +34,16 @@ Based in Jordan — open to remote opportunities worldwide.
   <img src="https://cdn.simpleicons.org/xampp/FB7A24" height="50" alt="XAMPP" />
 </p>
 
-### Design & Productivity
-<p align="left">
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="52" alt="Figma" />
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/claude-color.svg" height="52" alt="Claude" />
-  <img src="https://cdn.simpleicons.org/openai/74AA9C" height="52" alt="ChatGPT" />
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/notebooklm.svg" height="52" alt="NotebookLM" />
+## Design & Productivity
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="58" alt="Figma" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/claude-color.svg" height="58" alt="Claude" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/openai/74AA9C" height="58" alt="ChatGPT" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/notebooklm.svg" height="58" alt="NotebookLM" />
 </p>
 
 ### Tools & Systems
