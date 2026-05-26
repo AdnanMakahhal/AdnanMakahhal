@@ -35,19 +35,19 @@ Based in Jordan — open to remote opportunities worldwide.
 </p>
 
 ### Design & Productivity
-<p>
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="50" alt="Figma" />&nbsp;&nbsp;
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/claude-color.svg" height="60" alt="Claude" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/openai/74AA9C" height="50" alt="ChatGPT" />&nbsp;&nbsp;
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/notebooklm.svg" height="55" alt="NotebookLM" />
+<p align="left">
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="52" alt="Figma" />
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/claude-color.svg" height="52" alt="Claude" />
+  <img src="https://cdn.simpleicons.org/openai/74AA9C" height="52" alt="ChatGPT" />
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/notebooklm.svg" height="52" alt="NotebookLM" />
 </p>
 
 ### Tools & Systems
-<p>
-  <img src="https://cdn.simpleicons.org/git/F05032" height="50" alt="Git" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/github/FFFFFF" height="50" alt="GitHub" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VS Code" />&nbsp;&nbsp;
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/antigravity-color.svg" height="60" alt="Antigravity" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="50" alt="Ubuntu" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/kalilinux/557C94" height="50" alt="Kali Linux" />
+<p align="left">
+  <img src="https://cdn.simpleicons.org/git/F05032" height="52" alt="Git" />
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" height="52" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="52" alt="VS Code" />
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/antigravity-color.svg" height="52" alt="Antigravity" />
+  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="52" alt="Ubuntu" />
+  <img src="https://cdn.simpleicons.org/kalilinux/557C94" height="52" alt="Kali Linux" />
 </p>
