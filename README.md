@@ -17,7 +17,7 @@ I'm a Jordanian Full-Stack Developer and Web Designer who builds modern, respons
 ### Frontend
 <p>
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="50" alt="HTML5" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="50" alt="CSS3" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/css/1572B6" height="50" alt="CSS" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="50" alt="Tailwind CSS" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="50" alt="JavaScript" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="50" alt="React" />&nbsp;&nbsp;
@@ -28,7 +28,7 @@ I'm a Jordanian Full-Stack Developer and Web Designer who builds modern, respons
 ### Backend & Database
 <p>
   <img src="https://cdn.simpleicons.org/openjdk/007396" height="50" alt="Java" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/postgresql/4479A1" height="50" alt="SQL" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="50" alt="PostgreSQL" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="50" alt="MySQL" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/xampp/FB7A24" height="50" alt="XAMPP" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/supabase/3FCF8E" height="50" alt="Supabase" />
