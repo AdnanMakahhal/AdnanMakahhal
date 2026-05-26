@@ -27,26 +27,27 @@ I'm a Jordanian Full-Stack Developer and Web Designer who builds modern, respons
 
 ### Backend & Database
 <p>
-  <img src="https://cdn.simpleicons.org/openjdk/007396" height="50" alt="Java" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="50" alt="PostgreSQL" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="50" alt="SQL" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="50" alt="MySQL" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/xampp/FB7A24" height="50" alt="XAMPP" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/supabase/3FCF8E" height="50" alt="Supabase" />
+  <img src="https://cdn.simpleicons.org/supabase/3FCF8E" height="50" alt="Supabase" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/xampp/FB7A24" height="50" alt="XAMPP" />
 </p>
 
 ### Design & Productivity
 <p>
   <img src="https://cdn.simpleicons.org/figma/F24E1E" height="50" alt="Figma" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/anthropic/CC785C" height="50" alt="Claude" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/openai/74AA9C" height="50" alt="ChatGPT" />
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/claude-color.svg" height="50" alt="Claude" />&nbsp;&nbsp;
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openai.svg" height="50" alt="ChatGPT" />&nbsp;&nbsp;
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/notebooklm-color.svg" height="50" alt="NotebookLM" />
 </p>
 
 ### Tools & Systems
 <p>
   <img src="https://cdn.simpleicons.org/git/F05032" height="50" alt="Git" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/github/FFFFFF" height="50" alt="GitHub" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="50" alt="VS Code" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VS Code" />&nbsp;&nbsp;
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/antigravity-color.svg" height="50" alt="Antigravity" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="50" alt="Ubuntu" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/kalilinux/557C94" height="50" alt="Kali Linux" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/linux/FCC624" height="50" alt="Linux" />
+  <img src="https://cdn.simpleicons.org/kalilinux/557C94" height="50" alt="Kali Linux" />
 </p>
