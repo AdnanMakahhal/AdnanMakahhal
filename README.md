@@ -23,7 +23,7 @@ Based in Jordan — open to remote opportunities worldwide.
   <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" height="50" alt="Next.js" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="50" alt="Redux" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/supabase/3FCF8E" height="50" alt="Supabase" />&nbsp;&nbsp;
+  <img src="./icons/Supabase-Dark.svg" width="48">&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="Figma" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/github/FFFFFF" height="50" alt="GitHub" />&nbsp;&nbsp;
