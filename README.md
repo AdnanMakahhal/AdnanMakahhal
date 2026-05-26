@@ -6,13 +6,13 @@ Based in Jordan — open to remote opportunities worldwide.
 
 ---
 
-## 📚 Academic Foundations
+## Academic Foundations
 
 `Software Engineering` · `System Analysis & Design` · `Algorithm Design & Analysis` · `Data Structures`
 
 ---
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 
 ### Frontend
 <p align="left">
@@ -60,6 +60,6 @@ Based in Jordan — open to remote opportunities worldwide.
     <source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/antigravity-color.png" />
     <img src="https://unpkg.com/@lobehub/icons-static-png@latest/light/antigravity-color.png" height="50" alt="Antigravity" />
   </picture>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="50" alt="Ubuntu" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="50" alt="Ubuntu" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/kalilinux/557C94" height="50" alt="Kali Linux" />
 </p>
