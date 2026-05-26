@@ -8,7 +8,7 @@ Based in Jordan — open to remote opportunities worldwide.
 
 ## Academic Foundations
 
-`Software Engineering` · `System Analysis & Design` · `Algorithm Design & Analysis` · `Data Structures`
+`System Analysis & Design` · `Algorithm Design & Analysis` · `Data Structures`
 
 ---
 
