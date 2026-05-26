@@ -28,7 +28,7 @@ Based in Jordan — open to remote opportunities worldwide.
 ### Backend & Database
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="50" alt="SQL" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="52" alt="Firebase" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="50" alt="MySQL" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/supabase/3FCF8E" height="50" alt="Supabase" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/xampp/FB7A24" height="50" alt="XAMPP" />
