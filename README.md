@@ -27,5 +27,4 @@ Based in Jordan — open to remote opportunities worldwide.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="Figma" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/github/FFFFFF" height="50" alt="GitHub" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VS Code" />&nbsp;&nbsp;
 </p>
