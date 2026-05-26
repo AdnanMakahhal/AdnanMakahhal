@@ -63,13 +63,3 @@ Based in Jordan — open to remote opportunities worldwide.
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="50" alt="Ubuntu" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/kalilinux/557C94" height="50" alt="Kali Linux" />
 </p>
-
------
-
-## 🛠️ Languages & Tools
-
-## 🛠️ Languages & Tools
-
-<p align="center">
-  <img src="./tech-stack.svg" alt="Tech stack" />
-</p>
