@@ -16,6 +16,6 @@ Based in Jordan — open to remote opportunities worldwide.
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,figma,html,css,bootstrap,js,react,redux,tailwind,nextjs,supabase,gcp,git,github" />
+    <img src="https://skillicons.dev/icons?i=mysql,figma,html,css,bootstrap,js,react,redux,tailwind,nextjs,supabase,git,github" />
   </a>
 </p>
