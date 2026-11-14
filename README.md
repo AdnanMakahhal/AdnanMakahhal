@@ -38,11 +38,3 @@ I work across the entire development process — from planning and designing int
 <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
 
 **Additional:** Claude Code, Codex, Google Antigravity
-
----
-
-## Connect With Me
-
-**Portfolio:** [whyadnan.vercel.app](https://whyadnan.vercel.app/)
-
-**GitHub:** [AdnanMakahhal](https://github.com/AdnanMakahhal)
